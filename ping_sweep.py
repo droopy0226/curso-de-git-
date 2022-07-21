@@ -1,3 +1,5 @@
+#/usr/bin/python3
+
 import os
 import platform
 from datetime import datetime
